@@ -14,3 +14,4 @@ name = "go"
 
   [analyzers.meta]
   import_root = "github.com/Shivansh1313/cortex"
+  dependencies_vendored = true
